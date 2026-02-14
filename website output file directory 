@@ -1,0 +1,1 @@
+cd /home/claude && cp -r index.html about.html contact.html css/ js/ README.md .gitignore /mnt/user-data/outputs/github-pages-website/
